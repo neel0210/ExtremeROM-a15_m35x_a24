@@ -26,7 +26,7 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 # Features
 - Based on the latest stable OneUI 7 Galaxy S24 FE firmware
 - All software features from S24 FE
-- S25 Ultra CSC, ringtones and more
+- S25 Ultra CSC, ringtones,Live Download Speed and more
 - Moderately Debloated
 - Heavily DeKnoxed
 - Full SELinux Support
