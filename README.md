@@ -52,7 +52,7 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 - Countless other small optimizations
 - More that I can't remember right now and will have to be added in the future
 
-# Supported Devices(Fork)
+# Supported Devices (Fork)
 - Galaxy A15 4G (A155F)
 
 # Bugs
