@@ -1032,12 +1032,9 @@
         <item>340</item>
         <item>500</item>
         <item>800</item>
-        <item>1000</item>
-        <item>1000</item>
-        <item>1000</item>
-        <item>1000</item>
-        <item>1000</item>
-        <item>1000</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLevels">
         <item>1</item>
@@ -1972,6 +1969,7 @@
         <item>794.12</item>
         <item>796.08</item>
         <item>798.04</item>
+        <item>799.82</item>
         <item>800</item>
     </array>
     <integer-array name="config_screenBrightnessRangeForClearView">
