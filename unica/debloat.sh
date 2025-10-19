@@ -75,7 +75,11 @@ system/app/Fast
 system/app/FBAppManager_NS
 system/app/KidsHome_Installer
 system/app/MAPSAgent
+system/app/LiveTranscribe
+system/app/ParentalCare
 system/app/MDMApp
+system/app/SLocation
+system/app/SamsungTTS
 system/app/PlayAutoInstallConfig
 system/app/Rampart
 system/app/SamsungPassAutofill_v1
@@ -157,6 +161,8 @@ system/priv-app/SamsungCarKeyFw
 system/priv-app/SamsungPass
 system/priv-app/SamsungPositioning
 system/priv-app/SKMSAgent
+system/priv-app/serviceModeApp_FB
+system/priv-app/TalkBackSE
 system/priv-app/SOAgent75
 system/priv-app/SPPPushClient
 system/priv-app/StickerFaceARAvatar
