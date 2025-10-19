@@ -53,11 +53,18 @@ PRODUCT_DEBLOAT+="
 app/Chrome64
 app/Duo
 app/Gmail2
+app/GoogleLocationHistory
+app/SpeechServicesByGoogle
+app/com.google.mainline.adservices
+app/GoogleCalendarSyncAdapter
 app/Maps
 app/YouTube
 overlay/GmsConfigOverlaySearchSelector.apk
 priv-app/Messages
 priv-app/SearchSelector
+priv-app/FamilyLinkParentalControls
+priv-app/Velvet
+priv-app/
 "
 
 SYSTEM_DEBLOAT+="
