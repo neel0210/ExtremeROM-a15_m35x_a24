@@ -53,8 +53,8 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 - More that I can't remember right now and will have to be added in the future
 
 # Supported Devices
--A155F (Android 15)
--M356B (Android 16)
+- A155F (Android 15)
+- M356B (Android 16)
 
 # Bugs
 See the <a href="https://github.com/ExtremeXT/ExtremeROM/issues">⚠ Issues</a> tab
