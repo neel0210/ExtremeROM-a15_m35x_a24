@@ -48,14 +48,6 @@ while [ "$#" != 0 ]; do
             LOG "- Cleaning kernel dir(s)..."
             rm -rf "$KERNEL_TMP_DIR"*
             ;;
-        "odin")
-            LOG "- Cleaning Odin firmwares dir..."
-            rm -rf "$ODIN_DIR"
-            ;;
-        "fw")
-            LOG "- Cleaning extracted firmwares dir..."
-            rm -rf "$FW_DIR"
-            ;;
         "work_dir")
             LOG "- Cleaning ROM work dir..."
             rm -rf "$(dirname "$WORK_DIR")"
